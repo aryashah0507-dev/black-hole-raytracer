@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.env
+black_hole_settings.json
+__pycache__/
+*.pyc
+black_hole_settings.json
+venv/
+.env
