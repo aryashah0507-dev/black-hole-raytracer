@@ -1,11 +1,5 @@
-# Author   : Arya Shah
-# Email    : anshah@umass.edu
-# Spire ID : 35336269
-
 """
-Project: Relativistic Black Hole Simulation (Corrected Physics)
-Author: Arya Shah
-Course: CICS110
+Project: Relativistic Black Hole Simulation 
 
 Description:
 This program visually simulates a Schwarzschild Black Hole using General Relativity.
